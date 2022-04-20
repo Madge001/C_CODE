@@ -1,0 +1,5 @@
+﻿  lianxi.c
+F:\2022-c++code\test_4_6\test_4_6\lianxi.c(333,36): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+F:\2022-c++code\test_4_6\test_4_6\lianxi.c(343,11): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+F:\2022-c++code\test_4_6\test_4_6\lianxi.c(343,11): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“int”
+  test_4_6.vcxproj -> F:\2022-c++code\test_4_6\Debug\test_4_6.exe
